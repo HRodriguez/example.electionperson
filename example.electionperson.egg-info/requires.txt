@@ -1,0 +1,6 @@
+setuptools
+Plone>=4.0
+Products.membrane>=2.1.4
+
+[tests]
+zope.testing
